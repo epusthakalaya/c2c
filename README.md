@@ -1,5 +1,5 @@
 # # Telegram Channel Auto-Post Bot 🇱🇰
-# !<p align="center">
+<p align="center">
   <img src="https://telegra.ph/file/52a900e99c879218bd65f.jpg">
 
 This bot can send all new messages from one channel, directly to another channel (or group, just in case), without the forwarded tag!
