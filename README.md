@@ -1,5 +1,5 @@
-# # Channel Auto-Post Bot
-# ![Channel Auto-Post Bot](https://telegra.ph/file/1eca514b5e6202b1d92b3.jpg)
+# # Telegram Channel Auto-Post Bot
+# ![Telegram Channel Auto-Post Bot](https://telegra.ph/file/52a900e99c879218bd65f.jpg)
 
 This bot can send all new messages from one channel, directly to another channel (or group, just in case), without the forwarded tag!
 
@@ -15,9 +15,9 @@ This bot can send all new messages from one channel, directly to another channel
 
 > `TO_CHANNEL` - The ID of the channel to which the posts are to be sent. (Use @chnlidbot to get it.)   
 
-# Need To Add More Channles Contact me  👇
+# created by  👇
 
-## [Lasiya](t.me/Danuma_admin_bot)
+## [MADUSHANKA](t.me/Madushanka_bro)
 
 * Chose a platform to deploy on:
 
@@ -44,3 +44,4 @@ Visit [@Dbotai](https://t.me/Dbotai) for help.
 ## Credits
 
 > [xditya](https://github.com/xditya)
+> [Lasiya](t.me/Danuma_admin_bot)
